@@ -1,3 +1,3 @@
 # bullpen
 main 4
-dog 1
+dog 2
