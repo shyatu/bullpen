@@ -1,3 +1,3 @@
 # bullpen
 main 3
-dog 0
+dog 1
